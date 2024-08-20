@@ -1,0 +1,4 @@
+repository "examensarbete_2024@Devve00@cloud"
+  path "/"
+    br "/main"
+    co "/main"
