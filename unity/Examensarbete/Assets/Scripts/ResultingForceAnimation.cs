@@ -101,7 +101,7 @@ public class ResultingForceAnimation : MonoBehaviour
     {
         Debug.Log(measurements[0]);
         string directoryPath = @"C:\Examensarbete\UnityCSV";
-        string fileName = "unitydata_fast.csv";
+        string fileName = "unitydata_slow_faster.csv";
         string filePath = Path.Combine(directoryPath, fileName);
         
         try
